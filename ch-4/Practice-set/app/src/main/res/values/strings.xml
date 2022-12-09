@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ch4Practice</string>
+    <string name="exercise_1">Exercise-1</string>
+    <string name="exercise_2">Exercise-2</string>
+    <string name="exercise_3">Exercise-3</string>
+    <string name="exercise_4">Exercise-4</string>
+    <string name="title_activity_exercise2">Exercise2</string>
+</resources>

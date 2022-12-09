@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practice-set</string>
+    <string name="description">Ignore this</string>
+    <string name="content">I am Devarshi. I am learning Android App development from CodeWithHarry. He is so awesome. I love his tutorials.</string>
+    <string name="name_me">Name:- Me</string>
+    <string name="address_me">Address:-Me</string>
+</resources>
